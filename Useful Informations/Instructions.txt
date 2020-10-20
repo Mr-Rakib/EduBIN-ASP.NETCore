@@ -1,0 +1,27 @@
+***********************************************************************************
+--------------------------------EduBIN Instructions--------------------------------
+
+* First goto Useful Informations > Database.sql and execute it in SQL Server.
+* Then find the appsettings.json file and change the Database ConnectionString.
+
+------------------------API Information---------------------
+
+	URL 		: /swagger 
+	Description	: Full API Documentations.
+	
+	URL 		: /token
+	Method		: GET/POST(Any one).
+	Description	: For User Login. 
+	
+	---------------------------------
+	User Type 	: Superadmin
+	Username	: mwl@gmail.com
+	Password	: 123456
+	Grant_Type	: Password
+
+
+* It's return a authontication token for authorize users.
+* Use it into the Authorization > Type (Select Bearer Token).
+
+-------------------------------------Thank You--------------------------------------
+************************************************************************************
